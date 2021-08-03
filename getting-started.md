@@ -14,6 +14,12 @@ To build the full Zuthaka project, first download dependencies.
  git clone https://github.com/pucara/zuthaka
 ```
 
+To start the project with the corresponding handler classes, first build the image by running
+
+```bash
+docker build .
+```
+
 To start the project with the corresponding services, the docker-compose file can be utilized.
 
 ```bash
