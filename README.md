@@ -1,6 +1,6 @@
 ---
 description: >-
-  A collaborative free open-source Command & Control development framework that
+  A collaborative free open-source Command & Control integration framework that
   allows developers to concentrate on the core function and goal of their C2.
 ---
 
@@ -20,15 +20,17 @@ The current C2s ecosystem has rapidly grown in order to adapt to modern red team
 
 With the belief that community efforts surpass that of any individual, Zuthaka presents a simplified API for fast and clear integration of C2s and provides a centralized management for multiple C2 instances through a unified interface for Red Team operations.
 
-Zuthaka is more than just a collection of C2s, it is also a solid foundation that can be built upon and easily customized to meet the needs of the exercise that needs to be accomplish. This integration and  development framework for C2 allows developers to concentrate on a unique target environment and not have to reinvent the wheel.
+Zuthaka is more than just a collection of C2s, it is also a solid foundation that can be built upon and easily customized to meet the needs of the exercise that needs to be accomplish. This integration framework for C2 allows developers to concentrate on a unique target environment and not have to reinvent the wheel.
 
 ![Zuthaka Framework](.gitbook/assets/draw-infrastructure.jpg)
 
 ### Features
 
 * Zuthaka aims to be as flexible as the Red team needs in handling C2s, integrating it to whatever C2 is being use by implementing a [handler class](integrating-c2s.md) for the corresponding C2s.
-* Graphic FileManager for Agent's handling with "out of the box" integration for listing and navigation.
-* Graphic ProcessManager for Agent's handling with "out of the box" integration for listing and terminating.
+* **Graphic FileManager** for Agent's handling with "out of the box" integration for listing and navigation
+* **Graphic FileManager** "drag and drop" file upload if implemented.
+* **Graphic FileManager** "point and click" file download if implemented.
+* **Graphic ProcessManager** for Agent's handling with "out of the box" integration for listing and terminating.
 
 ### Built With
 
