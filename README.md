@@ -2,6 +2,7 @@
 description: >-
   A collaborative free open-source Command & Control integration framework that
   allows developers to concentrate on the core function and goal of their C2.
+  Powered by Pucara Information Security
 ---
 
 # Zuthaka
@@ -10,7 +11,7 @@ description: >-
 
 ![](.gitbook/assets/variables-imagotipo-a-full-color-zuthaka-f-.png)
 
-
+> Powered by [Pucara Information Security](https://pucara.io/)
 
 ## Problem Statement
 
@@ -75,7 +76,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## Contact
 
-Your Name - [@pucara](https://twitter.com/pucarasec) - contact@pucara.io
+[Pucara Information Security](https://pucara.io/) - Twitter [@pucara](https://twitter.com/pucarasec)  - Linkedin [Pucara](https://www.linkedin.com/company/pucarasec/) - contact@pucara.io
 
 Project Link: [https://github.com/pucarasec/zuthaka](https://github.com/pucarasec/zuthaka)
 
