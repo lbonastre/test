@@ -80,3 +80,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 Project Link: [https://github.com/pucarasec/zuthaka](https://github.com/pucarasec/zuthaka)
 
+Support and Discord Channel: [https://zuthaka.com/discord](https://zuthaka.com/discord)
+
