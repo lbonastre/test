@@ -26,5 +26,17 @@ To start the project with the corresponding services, the docker-compose file ca
 docker-compose up
 ```
 
-## 
+### Credentials
+
+After you have started the server, you can access the Zuthaka interface through http://localhost:80/ in which the default credentials will be   
+**User**: pucara   
+**Password**: zuthaka\_project
+
+{% hint style="info" %}
+You should change the default password
+{% endhint %}
+
+You can update the default password by clicking on the upper right corner.
+
+![](.gitbook/assets/screenshot-from-2021-08-06-12-17-13.png)
 
